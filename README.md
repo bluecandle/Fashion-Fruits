@@ -3,11 +3,11 @@
 
 # Team
 
-- 김진영 ()
-- 김준모 ()
-- 김창희 ()
-- 이지연 ()
-- 정희민 ()
+- 김진영 (jinyeongkim37@gmail.com)
+- 김준모 (wnsah1008@gmail.com)
+- 김창희 (kimchda210@naver.com)
+- 이지연 (i3048i@naver.com)
+- 정희민 (scr02070@naver.com)
 
 # 주요 과업
 
